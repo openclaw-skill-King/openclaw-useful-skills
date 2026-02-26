@@ -1,0 +1,9 @@
+{
+  "name": "video-summary-skill",
+  "version": "1.0.0",
+  "description": "Auto summarize videos into short text",
+  "install_cmd": "clawhub install video-summary-skill",
+  "usage": "Say 'Summarize this video: [URL]' in OpenClaw",
+  "author": "openclaw-skill-King",  
+  "contact": "to be updated" 
+}
